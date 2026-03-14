@@ -1,0 +1,16 @@
+python==3.9.21
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.13.1
+matplotlib==3.9.4
+torch==2.8.0.dev20250521+cu128
+torchaudio==2.6.0.dev20250521+cu128
+torchvision==0.22.0.dev20250521+cu128
+cvxpy==1.7.1
+optuna==4.3.0
+tqdm==4.67.1
+pyyaml==6.0.2
+numba==0.60.0
+networkx==3.2.1
+sympy==1.13.3
