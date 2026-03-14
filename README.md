@@ -2,6 +2,8 @@
 
 This README provides an overview of the project's file organization, including experiment scripts, data directories, and utility files. The project focuses on quantum machine learning models for 2- and 3-qubit systems, including training, testing, and evaluation on simulated and real experimental data.
 
+The complete code, along with the data and execution files, is available at: https://www.modelscope.cn/datasets/PhotonicsQuantumAlex/EQPs-AIME-Net
+
 ## 1. Experiment Scripts
 
 These scripts handle training, testing, and evaluation for various qubit configurations.
